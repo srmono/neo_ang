@@ -4,7 +4,13 @@
       "id": 1,
       "text": "Form Validation",
       "day": "Oct 5th at 1:30pm",
-      "reminder": false
+      "reminder": true
+    },
+    {
+      "text": "Angaular Routing",
+      "day": "Oct 6th 5:30 pm",
+      "reminder": true,
+      "id": 2
     }
   ],
   "posts": [
